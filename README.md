@@ -58,7 +58,7 @@ The root module composes infrastructure using reusable child modules instead of 
 
 Reusable infrastructure components are maintained in a separate repository:
 
-👉 **[terraform-azure-platform](https://github.com/YOUR-USERNAME/terraform-azure-platform)**
+👉 **[terraform-azure-platform](https://github.com/JcPrince28/terraform-azure-platform.git)**
 
 This mirrors real-world Terraform practices where shared modules are centrally maintained and versioned independently.
 
