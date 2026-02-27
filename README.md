@@ -24,16 +24,7 @@ The solution is designed with real-world cost optimization and operational contr
 
 ## 🎯 Business Problem
 
-In many environments, especially development and staging, Virtual Machines do not need to run 24/7. Leaving them running unnecessarily increases operational costs.
-
-This solution enables:
-
-- On-demand VM lifecycle control  
-- Secure automation without stored credentials  
-- Cost reduction in non-production environments  
-- Scalable and extensible automation architecture  
-
-The implementation focuses on secure design, modularity, and maintainability.
+This project implements a production-grade automation pattern built for enterprise cloud governance, emphasizing scalable, secure, and fully integrated solutions rather than simple scripting. By leveraging HTTP-triggered Azure Functions, a Least-Privilege security model, and tag based dynamic targeting, it provides a robust, automated, and hands off approach to managing the cloud resource lifecycle.
 
 ---
 
